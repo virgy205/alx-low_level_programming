@@ -2,7 +2,10 @@
 #include <unistd.h>
 
 /**
-Advanced task #2
+ * main - prints exactly "and that piece of art is useful"
+ * - Dora Korpar, 2015-10-19",
+ * followed by a new line, to the standard error.
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
