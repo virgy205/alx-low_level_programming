@@ -1,5 +1,2 @@
-#include<stdio.h>
-int main (void){
-
-}
-printf ($CFILE);
+#!/bin/bash
+gcc -E $CFILE -o c
